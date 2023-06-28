@@ -1,0 +1,30 @@
+# Next.js
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+
+# Build artifacts
+/.next/
+/build/
+
+# Node.js
+node_modules/
+
+# Package lock
+package-lock.json
+yarn.lock
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+puppeteer/
